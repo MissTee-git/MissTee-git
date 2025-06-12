@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Taurai Chiponde
 
-<!--
-**MissTee-git/MissTee-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student @UNZA (Class of 2026)  
+💡 Passionate about AI, System Design, and Creative Tech  
+🛠️ Projects: Smart Waste Detection | AI Traffic Management  
+🎨 Also a graphic designer and tech content creator
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 Python | Java | HTML | CSS | JavaScript
+- 🧠 YOLOv8 | TensorFlow (Basics)
+- 🛠 Git | GitHub | VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🚮 [Smart Waste Detection](https://link-to-project-or-github)
+- 🚦 [AI Traffic Management System](https://link-to-project-or-github)
+
+## 📫 Let’s Connect
+- ✉️ Email: teechipo@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/taurai-tarry)
+- 🌍 Portfolio: [Click to View](https://your-github-portfolio-link)
+
+---
+
+> “Code with purpose. Design with heart.” ❤️AKA MissCodess
